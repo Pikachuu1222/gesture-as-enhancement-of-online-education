@@ -1,6 +1,8 @@
 # Gesture as Enhancement of Online Education
 
-This project allows users to control software functions via hand gestures using the **Leap Motion** controller. Recognized gestures are mapped to keyboard shortcuts using Python.
+This project uses computer vision and machine learning to develop a gesture recognition system that enables quick controls and non-verbal communication during online classes.
+
+This code allows users to control software functions via hand gestures using the **Leap Motion** controller. Recognized gestures are mapped to keyboard shortcuts using Python.
 
 ## 🔧 Features
 
